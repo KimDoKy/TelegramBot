@@ -1,7 +1,7 @@
-token.py
+# telegram token 파일을 git에서 제외합니다.
+python-telegram-bot/telegram_token.py
 
-
-# Created by https://www.gitignore.io/api/python
+a Created by https://www.gitignore.io/api/python
 
 ### Python ###
 # Byte-compiled / optimized / DLL files
